@@ -81,9 +81,9 @@
 
             </div>
         </nav>
-        <div id="content" class="p-3 p-md-3">
+        <div id="content" class="p-0 p-md-0">
             <div class="header-menu">
-                <button type="button" id="sidebarCollapse" class="btn btn-primary">
+                <button type="button" id="sidebarCollapse" class="btn btn-primary ms-3">
                     <i class="fa fa-bars"></i>
                     <span class="sr-only">Toggle Menu</span>
                 </button>
