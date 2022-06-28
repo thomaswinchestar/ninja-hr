@@ -1,0 +1,37 @@
+.btn-theme {
+    color: #fff;
+    background-color: #4CD195;
+}
+
+.btn-theme:hover {
+    color: #fff!important;
+}
+
+
+/* Header Menu */
+
+.header-menu {
+    padding: 15px 0!important;
+    box-shadow: 0.5rem 1rem rgba(0, 0, 0, .15)!important;
+}
+
+
+/* Bottom Menu */
+
+.bottom-menu {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    box-shadow: 0.5rem 1rem rgba(0, 0, 0, .15)!important;
+}
+
+.bottom-menu a {
+    padding: 10px 15px;
+    text-align: center;
+    color: #000;
+}
+
+.bottom-menu a p {
+    font-size: 12px;
+    text-transform: uppercase;
+}
